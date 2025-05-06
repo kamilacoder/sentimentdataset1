@@ -1,4 +1,4 @@
-# sentimentdataset1
-### Sentimentdataset1
+# KPI Dashboard
+### KPI Dashboard
 
-in this sentimentdataset1 I have uploaded a sample dashboard. In this I haved worked.
+in this KPI Dashboard I have uploaded a sample dashboard. In this I haved worked.
